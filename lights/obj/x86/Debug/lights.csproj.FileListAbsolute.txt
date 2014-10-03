@@ -1,0 +1,9 @@
+E:\Alex job\C#\lights\lights\bin\Debug\lights.exe
+E:\Alex job\C#\lights\lights\bin\Debug\lights.pdb
+E:\Alex job\C#\lights\lights\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Alex job\C#\lights\lights\obj\x86\Debug\lights.Properties.Resources.resources
+E:\Alex job\C#\lights\lights\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Alex job\C#\lights\lights\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Alex job\C#\lights\lights\obj\x86\Debug\lights.exe
+E:\Alex job\C#\lights\lights\obj\x86\Debug\lights.pdb
+E:\Alex job\C#\lights\lights\obj\x86\Debug\lights.MainForm.resources
